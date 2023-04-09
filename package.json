@@ -1,7 +1,7 @@
 {
   "name": "het-or-de-landing",
   "version": "0.1.0",
-  "homepage": "https://hofs.dev/hetorde",
+  "homepage": "https://hetorde.hofs.dev/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.10.1",
